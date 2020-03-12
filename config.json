@@ -1,0 +1,16 @@
+{
+
+    "user_id_list": ["5741035493"], 
+    "filter": 1,
+    "since_date": "2018-01-01",
+    "write_mode": ["csv","mysql"],
+    "pic_download": 1,
+    "video_download": 1,
+    "mysql_config": {
+        "host": "127.0.0.1",   
+        "user": "root",
+        "password": "123456",
+        "database":"weibo",
+        "charset": "utf8mb4"
+    }
+}
